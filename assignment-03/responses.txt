@@ -1,0 +1,11 @@
+1) An IP address is a unique string of numbers corresponding to a computer or server. A DNS (domain name system) translates these numbers into alphabetical form. This makes it easier to access a website, For example, google.com, rather than a string of numbers.
+
+2) Cookies are text files that contain small pieces of data used to identify your computer on a network. These files can be used to remember your username, passwords, or preferences on a given site. They can also help you identify which links you have already clicked on a website (purple vs. blue text.)
+
+3) The three essential parts of a URL are the protocol, the domain name, and the path.
+
+The protocol dictates how the server communicates with the browser, for example, HTTP (hypertext transfer protocol.)
+
+The domain name is the alphabetical address of a website, a unique name that provides directions to a specific site.
+
+Paths are directions to the directories and subdirectories of a website. Paths lead to the files that the page you are viewing consists of in your browser.
