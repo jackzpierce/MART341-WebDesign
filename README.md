@@ -14,4 +14,4 @@ Repository for my Intro to Web Design homework
   </p>
   
  <a href="https://jackzpierce.github.io/MART341-WebDesign/assignment-06/">Assignment 06</a>
-  </p>
+  
