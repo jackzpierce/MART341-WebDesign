@@ -1,0 +1,85 @@
+#header{
+    background-image: url("../images/hugo.jpeg");
+}
+
+body {
+    background-color: #1d275d;
+    font-family: PlayfairDisplay;
+    text-align: center;
+}
+
+h1{
+    color: #222;
+    font-family: PlayfairDisplay;
+    font-size: 100px;
+    letter-spacing: 0.3em;
+    text-align: center;
+}
+
+.titleBorder{
+    height: 200px;
+    background-color: black;
+    color: black;
+}
+
+
+.titleBorder:hover{
+    background-color: #008800;
+    color: #333;
+    text-indent: 0em;
+    font-family: PlayfairDisplay
+}
+
+#title:hover{
+    letter-spacing: .5em;
+    color: #3333;
+}
+
+.subtitle{
+    padding-top: 70px;
+    font-size: 40px;
+    margin: auto;
+}
+
+.content-paragraph{
+    margin: auto;
+    color: #999;
+    font-size: 17px;
+    line-height: 19px;
+    max-width: 600px;
+    font-family: PlayfairDisplay;
+}
+
+.content-paragraph::first-line{
+    font-size: 20px;
+    font-family: PlayfairDisplay;
+    line-height: 30px;
+}
+
+.poem-link{
+    text-decoration: none;
+    color: #009900;
+}
+
+.poem-link:hover{
+    text-decoration: underline;
+    font-weight: 800;
+}
+
+.poem-link:visited{
+    color: #008899;
+}
+
+.image{
+    display: block;
+    margin-left: center;
+    margin-right: center;
+}
+
+img{
+    border: 5px solid #008800;
+}
+
+#img-link:hover{
+    border:10px solid #008800;
+}
